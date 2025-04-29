@@ -10,7 +10,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background:linear-gradient(90deg, #153677, #4e0677);
+    background: linear-gradient(rgba(206, 221, 244, 0.9), rgba(231, 212, 246, 0.9)), url('https://images.unsplash.com/photo-1517486808906-6ca8b3f8e1c1') center/cover no-repeat;
     padding:10px;
 }
 .todo-app{
